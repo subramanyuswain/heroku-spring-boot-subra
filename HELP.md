@@ -1,6 +1,6 @@
 # Getting Started
 
-Heroku URL - * [Click here] (https://heroku-spring-boot-subra.herokuapp.com/home)
+Heroku URL - * [Click here](https://heroku-spring-boot-subra.herokuapp.com/home)
 
 Resources
 
